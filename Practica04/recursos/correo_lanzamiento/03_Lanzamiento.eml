@@ -1,0 +1,26 @@
+Subject:
+ Lanzamiento funcionalidad de consulta consolidada - seguimiento interno
+From: Operaciones <operaciones@training.invalid>
+To: producto@training.invalid, ti@training.invalid, comercial@training.invalid
+Date: Wed, 16 Sep 2026 12:10:00 -0000
+Message-ID: <179003544850.699.10132547774840217221@training.invalid>
+References: <179003544849.699.14329232586630209105@training.invalid>
+ <179003544850.699.6951746921033480068@training.invalid>
+In-Reply-To: <179003544850.699.6951746921033480068@training.invalid>
+X-Training-Scenario: CIBEST CAPITAL - FICTICIO
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Desde Operaciones tenemos tres escenarios de validaci=C3=B3n pendientes y nec=
+esitamos que TI confirme qu=C3=A9 datos de prueba estar=C3=A1n disponibles. T=
+ambi=C3=A9n falta acordar qui=C3=A9n consolidar=C3=A1 los resultados de acept=
+aci=C3=B3n.
+
+Para la reuni=C3=B3n necesitamos resolver:
+- responsable de consolidaci=C3=B3n de pruebas;
+- fecha de cierre de UAT;
+- qu=C3=A9 evidencia se considerar=C3=A1 suficiente para declarar preparaci=
+=C3=B3n operativa.
+
+No proponemos cambios de fecha todav=C3=ADa.

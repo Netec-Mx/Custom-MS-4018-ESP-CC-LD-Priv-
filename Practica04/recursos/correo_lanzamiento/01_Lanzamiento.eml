@@ -1,0 +1,35 @@
+Subject:
+ Lanzamiento funcionalidad de consulta consolidada - seguimiento interno
+From: Lider de Producto <producto@training.invalid>
+To:
+ ti@training.invalid, operaciones@training.invalid, comercial@training.invalid
+Date: Mon, 14 Sep 2026 10:10:00 -0000
+Message-ID: <179003544849.699.14329232586630209105@training.invalid>
+X-Training-Scenario: CIBEST CAPITAL - FICTICIO
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Equipo, iniciamos el seguimiento del lanzamiento ficticio de la funcionalidad=
+ que permitir=C3=A1 a clientes consultar informaci=C3=B3n consolidada de sus =
+inversiones. La fecha objetivo de lanzamiento interno del caso es 15 de octub=
+re de 2026.
+
+Estado conocido:
+- El dise=C3=B1o funcional est=C3=A1 aprobado para el ejercicio.
+- TI tiene una versi=C3=B3n candidata disponible en el ambiente de prueba.
+- Operaciones est=C3=A1 preparando la lista de validaciones.
+
+Pendientes abiertos:
+1. Finalizar pruebas de aceptaci=C3=B3n de usuario (responsable: TI con apoyo=
+ de Operaciones).
+2. Completar preguntas frecuentes para soporte (responsable: Producto).
+3. Definir el grupo del piloto y el mensaje inicial (responsable: Comercial, =
+sujeto a decisi=C3=B3n).
+
+Dependencia: las pruebas de aceptaci=C3=B3n no pueden cerrarse hasta recibir =
+el resultado de la validaci=C3=B3n de integraci=C3=B3n del servicio de agrega=
+ci=C3=B3n de datos.
+
+Necesitamos una reuni=C3=B3n de estado para confirmar si mantenemos la fecha =
+objetivo.
