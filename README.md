@@ -1,10 +1,10 @@
 <img src="images/neteclogo (2).png" alt="logo" width="300"/>
 
-# MS-4018: Redactar, analizar y presentar con Microsoft 365 Copilot
+# Borrador, análisis y presentación con Microsoft 365 Copilot
 
 ## Plataforma de laboratorios
 
-Te damos la bienvenida a la **plataforma de laboratorios** del curso **MS-4018**. Aquí podrás explorar diferentes tecnologías a través de prácticas guiadas. ¡Desarrolla tus habilidades y lleva tus conocimientos al siguiente nivel!
+Te damos la bienvenida a la **plataforma de laboratorios** del curso **Borrador, análisis y presentación con Microsoft 365 Copilot**. Aquí podrás explorar diferentes tecnologías a través de prácticas guiadas. ¡Desarrolla tus habilidades y lleva tus conocimientos al siguiente nivel!
 
 ## Lista de laboratorios
 
